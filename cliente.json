@@ -1,0 +1,11 @@
+{
+    "nome": "Bryan",
+    "email": "bryan@hotmail.com",
+    "telefone": ["133223344", "13922334453"],
+    "endereco": {
+      "rua": "R. Joseph Climber",
+      "numero": 202,
+      "apartamento": true,
+      "complemento": "ap 934"
+    }
+  }
